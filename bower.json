@@ -1,0 +1,16 @@
+{
+  "name": "startup",
+  "homepage": "https://github.com/hungnt167/startup",
+  "authors": [
+    "Hung <hungnt@smartosc.com>"
+  ],
+  "description": "The Startup Project",
+  "main": "",
+  "license": "MIT",
+  "dependencies": {
+    "angular": "^1.5.6",
+    "angular-loading-bar": "^0.9.0",
+    "angular-material": "^1.0.9",
+    "angular-ui-router": "^0.3.0"
+  }
+}

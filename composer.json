@@ -1,0 +1,11 @@
+{
+    "name": "xlib/core",
+    "description": "The Startup Project",
+    "authors": [
+        {
+            "name": "Hung",
+            "email": "hungnt@smartosc.com"
+        }
+    ],
+    "require": {}
+}
